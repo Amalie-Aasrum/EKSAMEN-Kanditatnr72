@@ -37,8 +37,11 @@ body {
 }
 div{
     color:black;
+    
 }
-
+body 
+{
+    background-color: #d2ede9;
 
 }
 .container-fluid {
