@@ -46,7 +46,8 @@ div{
   padding-top: 1px;
   padding-bottom: 1px;
   font-size: 2px;
-  
+background-color: #d2ede9;
+
 }
 h3{
     color:aliceblue;
@@ -54,3 +55,6 @@ h3{
 
         
     }
+p{
+    background-color:#d2ede9;
+}
